@@ -1,1 +1,1 @@
-Simple snake game using java threads
+Simple snake game sourcecode
